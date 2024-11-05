@@ -1,2 +1,3 @@
 # Loan-Prediction-System
 ML Project
+In the loan eligibility project, my role was pivotal in its development and deployment. I took charge of designing and implementing the Streamlit web application, creating an intuitive interface for users to input essential details such as gender, marital status, monthly income, and loan amount. Additionally, I integrated a pre-trained machine learning model, loaded from 'classifier.pkl,' to accurately predict loan approval status. My responsibilities included managing the entire development lifecycle, from coding the application in Python to ensuring a seamless user experience. This project showcases my expertise in web application development, machine learning integration, and a user-centric approach to solving real-world problems.
